@@ -64,3 +64,7 @@ The goal of the project is to create a tool that can process a batch of images a
 The Bulk Image Cropper project provides a convenient way to process and crop images in bulk, with a focus on faces. It leverages the capabilities of OpenCV for image processing and is designed to be versatile and extensible for future enhancements.
 
 Feel free to ask if you have specific questions or if you'd like further details on any aspect of the project, sir!
+
+
+#### Social Media ####
+Linkdeln :  https://www.linkedin.com/in/mrunalyewatkar/
