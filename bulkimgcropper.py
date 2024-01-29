@@ -3,7 +3,7 @@ import os
 
 # Folder containing the images
 folder_path = "C:/Users/Acer/Desktop/Data Sample"  # Replace with the actual path to your folder
-f2 = "C:/Users/Acer/Desktop/ccrop"
+f2 = "C:/Users/Acer/Desktop/ccrop"   # saving Cropped File Folder
 # Load the face cascade
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
